@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dghar</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-- 🔭 I’m currently working on [PFE Project](https://islamehome.netlify.app/)
+- 🔭 I’m currently working on [PFE Project](https://islamhome.vercel.app/)
 - 🌱 I’m currently learning **TypeScript & React**
 - 📫 How to reach me [dgharmohamed@gmail.com](mailto:dgharmohamed@gmail.com)
 
