@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dghar</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-- 🔭 I’m currently working on [PFE Project](https://islamhome.vercel.app/)
-- 🌱 I’m currently learning **TypeScript & React**
+- 🔭 I’m currently working on [Islam Home](https://islamhome.vercel.app/)
+- 🌱 I’m currently learning **PHP & Laravel**
 - 📫 How to reach me [dgharmohamed@gmail.com](mailto:dgharmohamed@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
