@@ -16,7 +16,7 @@
   <a href="https://instagram.com/mohamed.dghar" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://islamehome.netlify.app/" rel="noreferrer">
+  <a href="https://islamhome.vercel.app/" rel="noreferrer">
     <img src="https://img.shields.io/badge/PFE_Project-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PFE Project" />
   </a>
 </p>
