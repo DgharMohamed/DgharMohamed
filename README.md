@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Dynamic Typing SVG -->
   <a href="https://mdghar.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Mohamed+Dghar+👋;Full-Stack+Web+%26+Mobile+Developer;Flutter+•+Laravel+•+React+•+TypeScript;Building+impactful+digital+experiences!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Mohamed+Dghar;Full-Stack+Web+%26+Mobile+Developer;Flutter+•+Laravel+•+React+•+TypeScript;Building+impactful+digital+experiences!" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Aspiring Software Developer</strong> based in <strong>Morocco 🇲🇦</strong>
+    <strong>Aspiring Software Developer</strong> based in <strong>Morocco</strong>
     <br />
     Passionate about crafting intuitive, scalable web & mobile applications with clean architecture.
   </p>
@@ -30,7 +30,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" align="center" /> About Me
+### About Me
 
 ```yaml
 name: Mohamed Dghar
@@ -41,15 +41,15 @@ interests: [Web Development, Mobile Apps, System Architecture, UI/UX Design]
 current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 ```
 
-- 🔭 **Featured Work**: Built and actively maintaining [**Islam Home**](https://islamhome.vercel.app/) — a comprehensive cross-platform digital portal.
-- 💼 **Portfolio**: Explore my live projects, interactive demos, and case studies on [**mdghar.vercel.app**](https://mdghar.vercel.app/).
-- 🌱 **Continuous Learning**: Deepening knowledge in Laravel ecosystem, scalable APIs, and Flutter state management.
-- 💡 **Mindset**: Strong problem-solving aptitude, keen eye for UI details, and a drive to build user-centric solutions.
-- 📫 **Let's Talk**: Reach out for collaborations, project inquiries, or tech discussions at [**dgharmohamed@gmail.com**](mailto:dgharmohamed@gmail.com).
+- **Featured Work**: Built and actively maintaining [**Islam Home**](https://islamhome.vercel.app/) — a comprehensive cross-platform digital portal.
+- **Portfolio**: Explore my live projects, interactive demos, and case studies on [**mdghar.vercel.app**](https://mdghar.vercel.app/).
+- **Continuous Learning**: Deepening knowledge in Laravel ecosystem, scalable APIs, and Flutter state management.
+- **Mindset**: Strong problem-solving aptitude, keen eye for UI details, and a drive to build user-centric solutions.
+- **Let's Talk**: Reach out for collaborations, project inquiries, or tech discussions at [**dgharmohamed@gmail.com**](mailto:dgharmohamed@gmail.com).
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" align="center" /> Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -92,18 +92,18 @@ current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="28" height="28" align="center" /> Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" align="center" /> **Islam Home** | Comprehensive cross-platform ecosystem & web portal offering Islamic resources, prayer timings, and community utilities. | `Flutter` `Dart` `Web` | [Live Demo](https://islamhome.vercel.app/) • [Repo](https://github.com/DgharMohamed/IslamHome-App-distribution) |
-| <img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center" /> **KERNELS** | NASA Space Apps Challenge project identifying Earth analogues for lunar Permanently Shadowed Regions (PSRs). | `JavaScript` `Data Analysis` | [Repository](https://github.com/DgharMohamed/KERNELS) |
-| <img src="https://skillicons.dev/icons?i=php" width="20" height="20" align="center" /> **Cabinet Médical** | Full-stack clinical management system managing patients, medical records, and appointments with role-based auth. | `PHP` `MySQL` `Bootstrap` | [Repository](https://github.com/DgharMohamed/Cabinet-Medical-PHP) |
-| <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" align="center" /> **BatSoft** | Modern management and operational workflow system designed for business processes. | `TypeScript` `Web` | [Repository](https://github.com/DgharMohamed/BatSoft) |
+| **Islam Home** | Comprehensive cross-platform ecosystem & web portal offering Islamic resources, prayer timings, and community utilities. | `Flutter` `Dart` `Web` | [Live Demo](https://islamhome.vercel.app/) • [Repo](https://github.com/DgharMohamed/IslamHome-App-distribution) |
+| **KERNELS** | NASA Space Apps Challenge project identifying Earth analogues for lunar Permanently Shadowed Regions (PSRs). | `JavaScript` `Data Analysis` | [Repository](https://github.com/DgharMohamed/KERNELS) |
+| **Cabinet Médical** | Full-stack clinical management system managing patients, medical records, and appointments with role-based auth. | `PHP` `MySQL` `Bootstrap` | [Repository](https://github.com/DgharMohamed/Cabinet-Medical-PHP) |
+| **BatSoft** | Modern management and operational workflow system designed for business processes. | `TypeScript` `Web` | [Repository](https://github.com/DgharMohamed/BatSoft) |
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" height="28" align="center" /> Connect & Socials
+### Connect & Socials
 
 <div align="center">
 
