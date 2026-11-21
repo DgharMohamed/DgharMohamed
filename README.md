@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Dynamic Typing SVG -->
   <a href="https://mdghar.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Mohamed+Dghar;Full-Stack+Web+%26+Mobile+Developer;Flutter+•+Laravel+•+React+•+TypeScript;Building+impactful+digital+experiences!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Mohamed+Dghar;Full-Stack+Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+React+%7C+TypeScript;Building+impactful+digital+experiences!" alt="Typing SVG" />
   </a>
 
   <p align="center">
