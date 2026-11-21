@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" align="center" /> About Me
 
 ```yaml
 name: Mohamed Dghar
@@ -49,7 +49,7 @@ current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" align="center" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -92,18 +92,18 @@ current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 
 ---
 
-### 🌟 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="28" height="28" align="center" /> Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🕌 **Islam Home** | Comprehensive cross-platform ecosystem & web portal offering Islamic resources, prayer timings, and community utilities. | `Flutter` `Dart` `Web` | [Live Demo](https://islamhome.vercel.app/) • [Repo](https://github.com/DgharMohamed/IslamHome-App-distribution) |
-| 🌕 **KERNELS** | NASA Space Apps Challenge project identifying Earth analogues for lunar Permanently Shadowed Regions (PSRs). | `JavaScript` `Data Analysis` | [Repository](https://github.com/DgharMohamed/KERNELS) |
-| 🏥 **Cabinet Médical** | Full-stack clinical management system managing patients, medical records, and appointments with role-based auth. | `PHP` `MySQL` `Bootstrap` | [Repository](https://github.com/DgharMohamed/Cabinet-Medical-PHP) |
-| 🏢 **BatSoft** | Modern management and operational workflow system designed for business processes. | `TypeScript` `Web` | [Repository](https://github.com/DgharMohamed/BatSoft) |
+| <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" align="center" /> **Islam Home** | Comprehensive cross-platform ecosystem & web portal offering Islamic resources, prayer timings, and community utilities. | `Flutter` `Dart` `Web` | [Live Demo](https://islamhome.vercel.app/) • [Repo](https://github.com/DgharMohamed/IslamHome-App-distribution) |
+| <img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center" /> **KERNELS** | NASA Space Apps Challenge project identifying Earth analogues for lunar Permanently Shadowed Regions (PSRs). | `JavaScript` `Data Analysis` | [Repository](https://github.com/DgharMohamed/KERNELS) |
+| <img src="https://skillicons.dev/icons?i=php" width="20" height="20" align="center" /> **Cabinet Médical** | Full-stack clinical management system managing patients, medical records, and appointments with role-based auth. | `PHP` `MySQL` `Bootstrap` | [Repository](https://github.com/DgharMohamed/Cabinet-Medical-PHP) |
+| <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" align="center" /> **BatSoft** | Modern management and operational workflow system designed for business processes. | `TypeScript` `Web` | [Repository](https://github.com/DgharMohamed/BatSoft) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" align="center" /> GitHub Activity & Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ current_focus: [Advanced Laravel, TypeScript, Flutter, Clean Code]
 
 ---
 
-### 🤝 Connect & Socials
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" height="28" align="center" /> Connect & Socials
 
 <div align="center">
 
